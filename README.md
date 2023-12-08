@@ -1,4 +1,4 @@
-Certainly! Below is the provided documentation formatted as a Markdown file:
+
 
 ```markdown
 # Deploying EKS Cluster Documentation
