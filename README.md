@@ -178,6 +178,3 @@ aws eks update-kubeconfig --name=<clustername> --region=us-east-1 --role-arn=arn
 ## Reference
 
 For additional information, refer to [AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html).
-```
-
-You can copy and paste this Markdown content into a new file with the ".md" extension and upload it to your GitHub repository for documentation.
